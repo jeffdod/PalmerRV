@@ -18,23 +18,21 @@ The Greek text is from _Η ΚΑΙΝΗ ΔΙΑΘΗΚΗ: The Greek New Testament wi
 
 ## Note format
 
-Here's what a note typically looks like. I'll show the note in its full context, embedded in an entire verse from Matthew 1:1.
+Below you can see what a note typically looks like, embedded in a verse-per-line format verse, as shown for Matthew 1:1.
 
 01:01 Βίβλος γενέσεως Ἰησοῦ Χριστοῦ, υἱοῦ {δαβιδ ¦ WH δαυειδ} Δαβίδ, υἱοῦ Ἁβραάμ.
 
-The files are in a verse-per-line format, so each line begins with the chapter and verse number.
-
-Within the text of the verse, you will see the notes surrounded by curly braces. Notice that a note appears _before_ the base text that it goes with. For example, in the note above, the Greek word Δαβίδ in the Palmer base text has a note that precedes it.
+Within the text of the verse, you will see the note surrounded by curly braces. A note appears _before_ the stretch of base text that it goes with. For example, in the note above, the Greek word Δαβίδ in the Palmer base text has a note that precedes it.
 
 While the base text contains diacritics and punctuation, the note text removes these for the sake of clarity. Diacritics are only shown in rare cases in the note text if it's necessary to distinguish the word differences.
 
-So in the example above, the note {δαβιδ ¦ WH δαυειδ} indicates that the word "δαβιδ" in the Palmer base text is replaced by the Westcott-Hort (WH) word "δαυειδ". The portion of the note that comes before the broken vertical bar "¦" symbol shows you what stretch of base text is affected by the variant, and of course the text that comes after the "¦" character shows the WH text that replaces is.
+So in the example above, the note {δαβιδ ¦ WH δαυειδ} indicates that the word "δαβιδ" in the Palmer base text is replaced by the Westcott-Hort (WH) word "δαυειδ". The portion of the note that comes before the broken vertical bar "¦" symbol shows you what stretch of base text is affected by the variant, and of course the text that comes after the "¦" character shows the WH text that replaces it.
 
 Here's another note example that demonstrates a type of shorthand notation in the notes:
 
 05:09 μακάριοι οἱ εἰρηνοποιοί· ὅτι {αυτοι ¦ \[WH\]} αὐτοὶ υἱοὶ Θεοῦ κληθήσονται.
 
-In this note, no text is listed from Westcott-Hort. Instead, the "WH" Westcott-Hort label appears with square brackets around it. This indicates that at this point, Westcott-Hort has the same text as Palmer, but places square brackets around it. Some notes will also show "\[\[WH\]\]" to show that Westcott-Hort places double square brackets around a stretch of text.
+In this note, no text is listed for Westcott-Hort. Instead, the "WH" Westcott-Hort label appears with square brackets around it. This indicates that at this point, Westcott-Hort has the same text as Palmer, but places square brackets around it. Some notes will also show "\[\[WH\]\]" to show that Westcott-Hort places double square brackets around a stretch of text.
 
 Finally, notice the "om." notation in this note:
 
